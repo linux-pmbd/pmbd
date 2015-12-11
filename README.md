@@ -1,4 +1,4 @@
-NOTE: PMDB was an Intel research project and is not currently being maintained.  For current information and instructions related to persistent memory enabling in Linux please refer to https://nvdimm.wiki.kernel.org/
+#### NOTE: PMDB was an Intel research project and is not currently being maintained.  For current information and instructions related to persistent memory enabling in Linux please refer to https://nvdimm.wiki.kernel.org/ ####
 
 ===============================================================================
               INTEL PERSISTENT MEMORY BLOCK DRIVER (PMBD) v0.9
